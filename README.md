@@ -6,6 +6,8 @@ A curated markdown report about major global LLM companies and their representat
 
 - **Global LLM Companies & Models (2026-03-01)**  
   `reports/llm-companies-models-2026-03-01.md`
+- **LLM Comparison Matrix: Coding / Chinese / Cost (2026-03-01)**  
+  `reports/llm-model-comparison-matrix-2026-03-01.md`
 
 ## 🔍 What’s inside
 
@@ -21,7 +23,8 @@ A curated markdown report about major global LLM companies and their representat
 .
 ├── README.md
 └── reports/
-    └── llm-companies-models-2026-03-01.md
+    ├── llm-companies-models-2026-03-01.md
+    └── llm-model-comparison-matrix-2026-03-01.md
 ```
 
 ## 📝 Notes
